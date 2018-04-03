@@ -1,0 +1,165 @@
+c:\users\johanna\documents\visual studio 2015\Projects\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe.config
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Form1.resources
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Properties.Resources.resources
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csproj.GenerateResource.Cache
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.pdb
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe.config
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.exe
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.pdb
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.pdb
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csprojResolveAssemblyReference.cache
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Form1.resources
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Properties.Resources.resources
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csproj.GenerateResource.Cache
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe.config
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.exe
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.pdb
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.pdb
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ZedGraph.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ZedGraph.xml
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Form1.resources
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Properties.Resources.resources
+C:\Users\Johanna\Desktop\ProyectoDeArqui\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csproj.GenerateResource.Cache
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe.config
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.exe
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.pdb
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.pdb
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\ZedGraph.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\ZedGraph.xml
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Form1.resources
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Properties.Resources.resources
+C:\Users\Johanna\Desktop\con graficos version 1.0\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csproj.GenerateResource.Cache
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe.config
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.exe
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.pdb
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.pdb
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ZedGraph.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ZedGraph.xml
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csprojResolveAssemblyReference.cache
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Form1.resources
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Properties.Resources.resources
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\con graficos version 1.2\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csproj.GenerateResource.Cache
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe.config
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.exe
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.pdb
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.pdb
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ZedGraph.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ZedGraph.xml
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csprojResolveAssemblyReference.cache
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Form1.resources
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Properties.Resources.resources
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.2\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csproj.GenerateResource.Cache
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe.config
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.exe
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.pdb
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csprojResolveAssemblyReference.cache
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Form1.resources
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Properties.Resources.resources
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csproj.GenerateResource.Cache
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.pdb
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\ZedGraph.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\ZedGraph.xml
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version 1.5\ProyectoDeArqui\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version final\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe.config
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.exe
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia 2\con graficos version final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.pdb
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe.config
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.exe
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.pdb
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.pdb
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\ZedGraph.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\ZedGraph.xml
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csprojResolveAssemblyReference.cache
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Form1.resources
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Properties.Resources.resources
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csproj.GenerateResource.Cache

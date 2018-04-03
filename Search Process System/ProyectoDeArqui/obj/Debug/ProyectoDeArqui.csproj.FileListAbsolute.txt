@@ -163,3 +163,12 @@ C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto 
 C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Form1.resources
 C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.Properties.Resources.resources
 C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\con graficos version final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.csproj.GenerateResource.Cache
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\final final\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe.config
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\final final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.exe
+C:\Users\Juliana\Documents\Juliana\Universidad\2 Semestre\Arquitectura\Proyecto Sistemas Operativos\copia final\final final\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.pdb
+G:\final final final  hh\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe.config
+G:\final final final  hh\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.exe
+G:\final final final  hh\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.pdb
+G:\Arquitectura.JulianaCamposParajelesYJohannaRuizBran\ProyectoDeArqui\bin\Debug\ProyectoDeArqui.exe.config
+G:\Arquitectura.JulianaCamposParajelesYJohannaRuizBran\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.exe
+G:\Arquitectura.JulianaCamposParajelesYJohannaRuizBran\ProyectoDeArqui\obj\Debug\ProyectoDeArqui.pdb
